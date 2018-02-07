@@ -1,0 +1,16 @@
+/**************************/
+
+Educomp Update V2.1
+
+/*************************/
+
+
+/* If you are Upgrading to V2.X from V1.X */
+
+Educomp update 2.X is backward incompatible. Please take care special if you are an existing customer.
+
+------------------------------------------------
+
+/* If you are instaloing V2.X for the first time */
+
+No special measures need to be taken. Please refer to documentation for easy and quick work.
